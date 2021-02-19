@@ -1,0 +1,2 @@
+# xtextsample
+xtext sample
